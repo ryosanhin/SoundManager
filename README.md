@@ -32,9 +32,9 @@ FadeInAndOutBGM(1);
 //BGMFileで「hogehoge」という名前のオーディオクリップに変更
 FadeInAndOutBGM("hogehoge");
 ```
-public void PlaySEClip(int num);
-public void PlaySEClip(string s);
-public void PlaySEClip(AudioClip clip);
+public void PlaySEClip(int num);  
+public void PlaySEClip(string s);  
+public void PlaySEClip(AudioClip clip);  
 ```
 //SEFileの0番目のSEを再生
 PlaySEClip(0);
