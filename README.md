@@ -5,12 +5,14 @@ Unity向けの簡易音声管理オブジェクトです。
 ### SoundSlider
 こちらではそこそこ簡単に音量の操作ができます。  
 1. Prefabフォルダ内に入っているSoundSliderをシーンのキャンバスに配置します。
-![selectSoundSlider](https://github.com/ryosanhin/SoundManager/assets/90621212/089e309e-6f79-4b66-9906-c19c29597bd2)
+![SelectSoundSlider](https://github.com/ryosanhin/SoundManager/assets/90621212/089e309e-6f79-4b66-9906-c19c29597bd2)  
+2. インスペクターでどの要素の音量を変えるか指定します。  
+![SelectSoundType](https://github.com/ryosanhin/SoundManager/assets/90621212/e3a1d730-5e82-4ad0-be31-17ac1f9dacde)  
 
 ### SimleSoundManager
 こちらではちょっと簡単にBGMの切り替え、SEを鳴らすということができます。  
 1. Prefabフォルダ内に入っているSimpleSoundManagerをシーンに配置します。
-![selectSimpleSoundManaer](https://github.com/ryosanhin/SoundManager/assets/90621212/e05d04ca-7efd-4f85-89e0-be446fee7a6d)
+![SelectSimpleSoundManaer](https://github.com/ryosanhin/SoundManager/assets/90621212/e05d04ca-7efd-4f85-89e0-be446fee7a6d)
 2. BGMFile、SEFileに鳴らしたいオーディオクリップを登録します。
 ![DD_AudioSource_to_BGMFile](https://github.com/ryosanhin/SoundManager/assets/90621212/d36a58c5-0d28-4177-bf71-fb6a9f6eb18a)
 3. スクリプト内で呼び出します。  
