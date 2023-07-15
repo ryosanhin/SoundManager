@@ -1,6 +1,7 @@
 # SoundManager
 Simple Sound Manager for Unity  
-Unity向けの簡易音声管理オブジェクトです。
+Unity向けの簡易音声管理オブジェクトです。  
+音量のスライダーでの変更やBGMの切り替え、SEを鳴らすということができます。
 # 使い方
 ### SoundSlider
 こちらではそこそこ簡単に音量の操作ができます。  
